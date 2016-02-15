@@ -1,7 +1,7 @@
 Meetup
 ======
 
-An exploratory analysis of Meetup data by Antonio Lima.
+An [exploratory analysis](http://themiurgo.github.io/meetup/Presentation.html) of Meetup data by Antonio Lima.
 
 License: MIT
 
