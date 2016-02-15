@@ -11,7 +11,7 @@ import meetup
 requests_cache.install_cache('meetup_cache')
 
 DB = pymongo.MongoClient('localhost', 27017)
-API_KEY = "39137ef755b394a3bb7222b762d"
+API_KEY = "XXX"
 
 EPOCH = datetime.utcfromtimestamp(0)
 def unix_time_millis(dt):
