@@ -1,7 +1,9 @@
 Meetup
 ======
 
-An exploratory analysis of Meetup data.
+An exploratory analysis of Meetup data by Antonio Lima.
+
+License: MIT
 
 How to...
 ---------
