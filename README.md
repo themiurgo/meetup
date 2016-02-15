@@ -8,9 +8,9 @@ How to...
 
 Explore the results of the analysis.
 
-   jupyter notebook analysis
+   jupyter notebook Analysis.ipynb
 
 Reproduce the results:
 
-1. Crawl the data (details in `crawler`)
+1. Crawl the data (`crawler/main.py`)
 2. Follow the Jupyter notebook analysis.
